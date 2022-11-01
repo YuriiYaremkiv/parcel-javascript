@@ -1,1 +1,8 @@
 @import './example';
+@import './form';
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
